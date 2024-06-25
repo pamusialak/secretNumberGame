@@ -4,7 +4,7 @@
 
 I developed this game at the course "Progamming Logic: explore functions and arrays" at Alura, I learned a little more about arrays, functions and logic in JavScript.
 
-##Tools used:
+## Tools used:
  - **JavaScript**
  - **HTML**
 
