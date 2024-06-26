@@ -11,6 +11,7 @@ I developed this game at the course "Progamming Logic: explore functions and arr
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-Developed by: - **Pamela Alves Musialak**
+Developed by: 
+  - **Pamela Alves Musialak**
   - [LinkedIn](https://www.linkedin.com/in/pamusialak/)
    
